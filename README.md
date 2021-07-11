@@ -1,4 +1,10 @@
-### Hi there 👋
+### Assalamualaikum
+I am Rubyat currently studying BSc in Computer Science And Engineering from State University Of Bangladesh.
+Skills➡ 💻 C Programming, JAVA,HTML
+
+🌱 I’m currently learning .. Python
+
+Contact with me: rubyat67@gmail.com
 
 <!--
 **Rubyat-Jesmin-Shammi/Rubyat-Jesmin-Shammi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +20,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Anurag's GitHub
+Stats](https://github-readme-stats.vercel.app/api?username=Rubyat-Jesmin-Shammi&theme=dark&show_icons=true)

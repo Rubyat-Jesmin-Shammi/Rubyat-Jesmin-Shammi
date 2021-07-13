@@ -1,5 +1,5 @@
 ### Assalamualaikum
-I am Rubyat currently studying BSc in Computer Science And Engineering from State University Of Bangladesh.
+# I am Rubyat currently studying BSc in Computer Science And Engineering from State University Of Bangladesh.I want to be a full stack devloper
 
 Skills➡ 💻 C Programming, JAVA,HTML
 
